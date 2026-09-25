@@ -34,7 +34,7 @@ Como é um projeto puramente front-end (arquivos estáticos), é muito simples d
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Korzre/Zipdrive-project.git
+   git clone https://github.com/Korzre/zipdrive-project.git
 
 2.  Abra a pasta do projeto no seu explorador de arquivos.
 
